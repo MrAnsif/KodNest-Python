@@ -2,26 +2,31 @@
 
 ## My Name
 
-Write your name.
+Ansif Muhammed N N
 
 ## What I Learned in Foundation Month
 
-Write at least three things you learned.
+Logical thinking
+Problem solving skills
+To write psudocode
 
 ## Why I Selected Python
 
-Write your reason in your own words.
+Backend and Web development
+AI and ML
+Many useful libraries
+Minimal syntax
 
 ## My Career Goal
 
-Write the role you want to achieve.
+To be a Software Engineer in a MNC company
 
 ## What I Understood Today
 
 Complete these sentences:
 
-Programming means:
+Programming means: Make computer perform given tasks.
 
-Python is:
+Python is: A high level programming language.
 
-In this track, I will learn:
+In this track, I will learn: Basic Python programming concepts including variables, data types, functions.
